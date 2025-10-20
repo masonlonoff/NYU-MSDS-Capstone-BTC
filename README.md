@@ -9,8 +9,8 @@ NYU MS Data Science Fall 2025 BTC Capstone
 
 
 **Name:** Lavya Midha   
-**Undergrad:** Boston University, Boston, MA
-**From:** Delhi, India 
-**Favorite Hobby / Fun Fact:** I love reading, taking walks around the city, and exploring new restaurants.    
+**Undergrad:** Boston University, Boston, MA \
+**From:** Delhi, India \
+**Favorite Hobby / Fun Fact:** I love reading, taking walks around the city, and exploring new restaurants.    \
 **LinkedIn:** [https://www.linkedin.com/in/lavya-midha-9ba408245](https://www.linkedin.com/in/lavya-midha-9ba408245)
 
