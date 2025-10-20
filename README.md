@@ -14,3 +14,10 @@ NYU MS Data Science Fall 2025 BTC Capstone
 **Favorite Hobby / Fun Fact:** I love reading, taking walks around the city, and exploring new restaurants.    \
 **LinkedIn:** [https://www.linkedin.com/in/lavya-midha-9ba408245](https://www.linkedin.com/in/lavya-midha-9ba408245)
 
+
+**Name:** Mason Lonoff 
+**Undergrad:** Wake Forest University, Winston-Salem, NC \
+**From:** Cold Spring Harbor, NY \
+**Favorite Hobby / Fun Fact:** I enjoy cooking, watching/playing sports, and eating at new places all over the city.    \
+**LinkedIn:** [https://www.linkedin.com/in/mason-lonoff](https://www.linkedin.com/in/mason-lonoff)
+
