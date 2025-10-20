@@ -6,3 +6,11 @@ NYU MS Data Science Fall 2025 BTC Capstone
 **From:** Colombo, Sri Lanka  
 **Favorite Hobby / Fun Fact:** I love traveling and exploring new places, learning about different cultures, and trying dishes from various cuisines.   
 **LinkedIn:** [https://www.linkedin.com/in/rithujaa/](https://www.linkedin.com/in/rithujaa/)
+
+
+**Name:** Lavya Midha   
+**Undergrad:** Boston University, Boston, MA
+**From:** Delhi, India 
+**Favorite Hobby / Fun Fact:** I love reading, taking walks around the city, and exploring new restaurants.    
+**LinkedIn:** [https://www.linkedin.com/in/lavya-midha-9ba408245](https://www.linkedin.com/in/lavya-midha-9ba408245)
+
