@@ -21,11 +21,11 @@ NYU MS Data Science Fall 2025 BTC Capstone
 **Favorite Hobby / Fun Fact:** I enjoy cooking, watching/playing sports, and eating at new places all over the city.    \
 **LinkedIn:** [https://www.linkedin.com/in/mason-lonoff](https://www.linkedin.com/in/mason-lonoff)
 
+**Name:** Varshitha Reddy Medarametla  
+**Undergrad:** R.M.K Engineering College – Anna University, Tamil Nadu, India  
+**From:** Andhra Pradesh, India  
+**Favorite Hobby / Fun Fact:** I enjoy learning photography, reading neuroscience books, practicing classical dance, and playing badminton.  
+**LinkedIn:** [https://www.linkedin.com/in/varshitha21](https://www.linkedin.com/in/varshitha21)
 
-**Name:** Varshitha Reddy Medarametla 
-**Undergrad:** R.M.K Engineering College - Anna University, Tamil Nadu, India \
-**From:** Andhra Pradesh, India \
-**Favorite Hobby / Fun Fact:** I enjoy learning photography, reading neuroscience books, classical dance and badminton.    \
-**LinkedIn:** [https://www.linkedin.com/in/varshitha21]
 
 
