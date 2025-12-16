@@ -1,5 +1,8 @@
 # NYU-MSDS-F25-BTC
 NYU MS Data Science Fall 2025 BTC Capstone
+LINK TO DASHBOARD: https://nyu-msds-f25-btc-lai3xqyyyusrct63ebr63w.streamlit.app
+
+\
 
 **Name:** Rithujaa Rajendrakumar  
 **Undergrad:** University of British Columbia, Okanagan   
