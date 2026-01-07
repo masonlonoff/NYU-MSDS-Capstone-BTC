@@ -2,10 +2,13 @@
 NYU MS Data Science Fall 2025 BTC Capstone
 
 **This project was developed as part of Trilemma Foundation.**
+
 This repository is a personal fork created for portfolio and demonstration purposes only. 
+
 All original code and ownership remain with the original organization.
 
 **Original Repository:** https://github.com/TrilemmaFoundation/NYU-MSDS-F25-BTC
+
 **My role:** Sentiment modeling, MICE imputation, dashboarding, agent development
 
 LINK TO DASHBOARD: https://nyu-msds-f25-btc-lai3xqyyyusrct63ebr63w.streamlit.app
