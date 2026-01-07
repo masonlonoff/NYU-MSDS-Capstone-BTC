@@ -1,6 +1,13 @@
 # NYU-MSDS-F25-BTC
 NYU MS Data Science Fall 2025 BTC Capstone
 
+**This project was developed as part of Trilemma Foundation.**
+This repository is a personal fork created for portfolio and demonstration purposes only. 
+All original code and ownership remain with the original organization.
+
+**Original Repository:** https://github.com/TrilemmaFoundation/NYU-MSDS-F25-BTC
+**My role:** Sentiment modeling, MICE imputation, dashboarding, agent development
+
 LINK TO DASHBOARD: https://nyu-msds-f25-btc-lai3xqyyyusrct63ebr63w.streamlit.app
 
 Bitcoin’s extreme price volatility complicates long-term accumulation by exposing investors to adverse timing risk. Dollar-cost averaging (DCA) is widely used due to its simplicity and robustness, but it does not account for market conditions such as volatility and momentum. This paper evaluates whether an adaptive accumulation strategy can outperform uniform DCA. Using a comprehensive daily dataset spanning over 4,500 observations and 369 variables covering Bitcoin price dynamics, on-chain activity, miner behavior, macroeconomic indicators, and sentiment measures, we construct adaptive accumulation agents and combine them in a weighted ensemble. Back-testing shows the proposed strategy significantly outperforms DCA, achieving higher win rates and improved weighted performance metrics while maintaining bounded risk exposure. These results indicate that modest, interpretable regime-aware adjustments can materially enhance long-term Bitcoin accumulation without sacrificing transparency or implementability.
